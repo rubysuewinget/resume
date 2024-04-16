@@ -1,0 +1,8 @@
+body { font-family: Arial, Helvetica, sans-serif; background-color: lightblue;}
+h1 {color: aliceblue; font-weight: bold;}
+p {font-size: 18px; color: lightgray;}
+li {font-weight: lighter;}
+.swim {width: 100 px; height: 150px;border: 10px double black; margin: 10px;}
+.swim2 {width: 50 px; height: 90px;border: 5px dotted #0000ff; margin: 10px;}
+.swim3 {width: 100 px; height: 100 px;border: 3px dashed  deepskyblue; margin: 10px;}
+.title {text-decoration-line: underline;}
